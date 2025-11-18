@@ -8,7 +8,7 @@ This app replicates the account setup experience from a web form (without CAPTCH
 
 ## Features
 
-- **User Registration**: Multi-field form with validation (name, email, password, phone, country, date of birth)
+- **User Registration**: Multi-field form with validation (name, email, password, phone)
 - **Login Authentication**: Email/password login with session persistence
 - **Secure Storage**: Credentials stored securely using Expo SecureStore (Keychain/Keystore)
 - **Form Validation**: Real-time validation using Zod schemas, inline error messages
