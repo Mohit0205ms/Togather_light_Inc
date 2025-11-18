@@ -146,11 +146,8 @@ Tests cover:
 All required fields enforced with inline errors and disabled submit.
 
 ## Screenshots
-| <img src="https://github.com/user-attachments/assets/b9a2561e-940f-4431-8561-138c31ec1c66" width="200"/> | <img src="https://github.com/user-attachments/assets/b9a2561e-940f-4431-8561-138c31ec1c66" width="200"/> |
+| <img src="https://github.com/user-attachments/assets/b9a2561e-940f-4431-8561-138c31ec1c66" width="300"/> | <img src="https://github.com/user-attachments/assets/dc19ee15-c6cd-4bb7-90e3-aaa6a3a6e147" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/d7a98b44-be45-44ce-bd76-38c00449c382" width="300"/> | <img src="https://github.com/user-attachments/assets/5818919d-3a83-42b5-948b-f6b8fbc94c77" width="300"/> |
+<img src="https://github.com/user-attachments/assets/1862791f-010e-4eae-ab4d-1caab8b7fcd8" width="300"/>
 
-![login](https://github.com/user-attachments/assets/b9a2561e-940f-4431-8561-138c31ec1c66)
-![signUp_1](https://github.com/user-attachments/assets/dc19ee15-c6cd-4bb7-90e3-aaa6a3a6e147)
-![signUp_2](https://github.com/user-attachments/assets/d7a98b44-be45-44ce-bd76-38c00449c382)
-![home_1](https://github.com/user-attachments/assets/5818919d-3a83-42b5-948b-f6b8fbc94c77)
-![home_2](https://github.com/user-attachments/assets/1862791f-010e-4eae-ab4d-1caab8b7fcd8)
 
