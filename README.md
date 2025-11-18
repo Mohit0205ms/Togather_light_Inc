@@ -137,10 +137,7 @@ Tests cover:
 - **First Name/Last Name**: Required, letters only
 - **Email**: Valid email format
 - **Password**: Min 8 chars, must contain uppercase, lowercase, number
-- **Confirm Password**: Must match password
 - **Phone**: International format (+country code)
-- **Country**: Required selection
-- **Date of Birth**: Required
 
 ### Login Form
 - **Email**: Valid format
