@@ -146,8 +146,8 @@ Tests cover:
 All required fields enforced with inline errors and disabled submit.
 
 ## Screenshots
+| <img src="https://github.com/user-attachments/assets/b9a2561e-940f-4431-8561-138c31ec1c66" width="200"/> | <img src="https://github.com/user-attachments/assets/b9a2561e-940f-4431-8561-138c31ec1c66" width="200"/> |
 
-[Screenshots would be included here showing login, registration, and home screens on iOS/Android]
 ![login](https://github.com/user-attachments/assets/b9a2561e-940f-4431-8561-138c31ec1c66)
 ![signUp_1](https://github.com/user-attachments/assets/dc19ee15-c6cd-4bb7-90e3-aaa6a3a6e147)
 ![signUp_2](https://github.com/user-attachments/assets/d7a98b44-be45-44ce-bd76-38c00449c382)
