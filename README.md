@@ -145,36 +145,12 @@ Tests cover:
 
 All required fields enforced with inline errors and disabled submit.
 
-## Trade-offs and Limitations
-
-- Local-only operation (no backend integration)
-- Partial form pre-filling not implemented (clears on app restart)
-- Biometric authentication not implemented
-- Dark mode not implemented
-- E2E tests not included
-- UI tested on Expo Go only
-
-## Development Notes
-
-- Built in ~4-5 hours using AI-assisted development (Claude)
-- Follows React Native best practices
-- TypeScript strict mode enabled
-- Accessibility labels added to form elements
-- Code formatted with Prettier, linted with ESLint
-
 ## Screenshots
 
 [Screenshots would be included here showing login, registration, and home screens on iOS/Android]
+![login](https://github.com/user-attachments/assets/b9a2561e-940f-4431-8561-138c31ec1c66)
+![signUp_1](https://github.com/user-attachments/assets/dc19ee15-c6cd-4bb7-90e3-aaa6a3a6e147)
+![signUp_2](https://github.com/user-attachments/assets/d7a98b44-be45-44ce-bd76-38c00449c382)
+![home_1](https://github.com/user-attachments/assets/5818919d-3a83-42b5-948b-f6b8fbc94c77)
+![home_2](https://github.com/user-attachments/assets/1862791f-010e-4eae-ab4d-1caab8b7fcd8)
 
-## Deployment
-
-For production deployment:
-
-1. Configure app.json for release
-2. Set up code signing for iOS/Android
-3. Build with expo build
-4. Submit to app stores
-
-## Contact
-
-For questions or issues, contact andrii@togetherlight.com
